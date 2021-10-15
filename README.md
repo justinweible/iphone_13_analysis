@@ -1,4 +1,4 @@
-![image](images/Apple_Inc.-White-Logo.wine.png)
+![image](images/Apple-Computer-Rainbow-01.png)
 # Twitter Sentiment Analysis of iPhone 13 Release
 The iPhone 13 is Apple's latest model, released on September 24, 2021.
 
