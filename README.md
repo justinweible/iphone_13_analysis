@@ -60,7 +60,7 @@ The model that did the best at predicting negative tweets was Logistic Regressio
 
 * Overall reaction on the iPhone 13 was positive or neutral, showing that consumers were relatively pleased.
 
-* The most talked about aspect of the iPhone on Twitter is pro and max, showing that consumers are reacting more to both the Pro and the Prox Max model of iPhone 13. This could mean that the features of those model, such as a larger screen and better camera, are favored by consumers.
+* The most talked about aspect of the iPhone on Twitter is pro and max, showing that consumers are reacting more to both the Pro and the Pro Max model of iPhone 13. This could mean that the features of those model, such as a larger screen and better camera, are favored by consumers.
 
 * People are more focused on improvements to battery life and the camera and react accordingly.
 
